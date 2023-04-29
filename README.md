@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="images/sdgs.png"
-  width=70%/>
+  width=50%/>
 </p>
 
 ## 📕 Project Description
