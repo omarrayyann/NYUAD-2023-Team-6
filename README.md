@@ -18,7 +18,7 @@
 
 ## 📕 Project Description
 
-## 🤖 Why quantum computing?
+Tanabu is an open-source Python package that utilizes quantum machine learning to enhance the accuracy in predicting maintenance of energy grids. Specifically, Tanabu uses a quantum support vector regressor algorithm to take in energy consumption trends and climate data to recommend maintenance in anticipation of potential strain on energy grids.
 
 ## 🌍 About us
 
